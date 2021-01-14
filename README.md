@@ -1,6 +1,19 @@
-## How to start 
+## How to start
+Installing requirements:
 
     pip install -r requirements.txt
+
+
+Starting BlockChain:
+
+    chmod +x Blockchain.py
+    python Blockchain.py
+
+
+Startig Miner:
+    chmod +x miner.py:    
+    python miner.py
+    
 
 ## Only works with Python 2.6 >
 
