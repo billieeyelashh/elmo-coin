@@ -10,8 +10,8 @@ Starting BlockChain:
     python Blockchain.py
 
 
-Startig Miner:
-    chmod +x miner.py:    
+Starting Miner:
+    chmod +x miner.py  
     python miner.py
     
 
