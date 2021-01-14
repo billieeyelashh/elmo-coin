@@ -11,6 +11,7 @@ Starting BlockChain:
 
 
 Starting Miner:
+
     chmod +x miner.py  
     python miner.py
     
